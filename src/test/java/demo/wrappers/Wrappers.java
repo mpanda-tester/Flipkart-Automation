@@ -16,7 +16,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 public class Wrappers {
-    /*
-     * Write your selenium wrappers here
-     */
+    // public int extractNumber(String str){
+    //    String value=str.replaceAll("^[0-9]", "");
+    //    return Integer.parseInt(value);
+    
 }
